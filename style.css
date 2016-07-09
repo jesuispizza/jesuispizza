@@ -16,7 +16,7 @@ h1{
 #header{
 	position: relative;
 	font-family: 'poiret one';
-	padding-top: 150px;
+	padding-top: 160px;
 	padding-bottom: 150px;
 	text-align: center;
 	background-image: url('image/pizza.png');
@@ -28,7 +28,7 @@ h1{
 
 .header-filter{
 	position: absolute;
-	background-color: black;
+	background-color: grey;
 	opacity: 0.5;
 	top:0;
 	bottom:0;
