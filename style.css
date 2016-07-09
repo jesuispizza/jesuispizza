@@ -29,7 +29,7 @@ h1{
 .header-filter{
 	position: absolute;
 	background-color: grey;
-	opacity: 0.5;
+	opacity: 0.3;
 	top:0;
 	bottom:0;
 	left: 0;
@@ -38,7 +38,7 @@ h1{
 }
 
 h2 {
-	font-family: 'Righteous';
+	font-family: 'poiret one';
 	color: #152623;
 	text-align: center;
 }
